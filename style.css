@@ -32,16 +32,20 @@ body {
     margin-bottom: 25px;
 }
 
-.whatsapp-link {
+.resaltado {
+    font-weight: 700;
+}
+
+.Whatsapp-link {
     display: inline-block;
 }
 
-.whatsapp-icon {
+.Whatsapp-icon {
     width: 70px;
     height: 70px;
     transition: transform 0.3s ease;
 }
 
-.whatsapp-link:hover .whatsapp-icon {
+.Whatsapp-link:hover .Whatsapp-icon {
     transform: scale(1.1);
 }
