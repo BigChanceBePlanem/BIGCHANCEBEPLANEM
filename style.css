@@ -4,12 +4,12 @@ body {
     align-items: center;
     min-height: 100vh;
     background-color: #f0f2f5;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Montserrat';
     margin: 0;
 }
 
 .card {
-    background-color: #ffffff;
+    background-color: #01a2ff;
     border-radius: 15px;
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
     padding: 30px;
