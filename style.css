@@ -3,13 +3,13 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-color: #f0f2f5;
+    background-color: #01a2ff;
     font-family: 'Montserrat';
     margin: 0;
 }
 
 .card {
-    background-color: #01a2ff;
+    background-color: #ffffff;
     border-radius: 15px;
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
     padding: 30px;
