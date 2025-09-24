@@ -5,7 +5,6 @@ body {
     min-height: 100vh;
     background-color: #01a2ff;
     font-family: 'Montserrat', sans-serif;
-    text-transform: uppercase;
     margin: 0;
 }
 
@@ -27,7 +26,7 @@ body {
 
 .card p {
     color: #666;
-    font-size: 16px;
+    font-size: 14px;
     line-height: 1.5;
     margin-bottom: 25px;
 }
