@@ -3,8 +3,9 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-color: #01a2ff;
-    font-family: 'Montserrat';
+    background-color: #f0f2f5;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
     margin: 0;
 }
 
