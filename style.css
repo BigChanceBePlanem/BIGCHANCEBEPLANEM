@@ -36,16 +36,16 @@ body {
     font-weight: 700;
 }
 
-.Whatsapp-link {
+.whatsapp-link {
     display: inline-block;
 }
 
-.Whatsapp-icon {
+.whatsapp-icon {
     width: 70px;
     height: 70px;
     transition: transform 0.3s ease;
 }
 
-.Whatsapp-link:hover .Whatsapp-icon {
+.whatsapp-link:hover .whatsapp-icon {
     transform: scale(1.1);
 }
